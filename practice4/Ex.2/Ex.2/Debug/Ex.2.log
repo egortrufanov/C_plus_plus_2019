@@ -1,0 +1,5 @@
+  Source.cpp
+C:\Users\miair\Desktop\итмо\программирование\практика\practice4\Ex.2\Ex.2\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\miair\Desktop\итмо\программирование\практика\practice4\Ex.2\Ex.2\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\miair\Desktop\итмо\программирование\практика\practice4\Ex.2\Ex.2\Source.cpp(32): warning C4715: Myroot: значение возвращается не при всех путях выполнения
+  Ex.2.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice4\Ex.2\Debug\Ex.2.exe
