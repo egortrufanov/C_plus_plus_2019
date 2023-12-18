@@ -1,0 +1,5 @@
+  Source.cpp
+C:\Users\miair\Desktop\итмо\программирование\практика\practice9\Ex.2\Ex.2\Source.cpp(50,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\miair\Desktop\итмо\программирование\практика\practice9\Ex.2\Ex.2\Source.cpp(54,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\miair\Desktop\итмо\программирование\практика\practice9\Ex.2\Ex.2\Source.cpp(58,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Ex.2.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice9\Ex.2\x64\Debug\Ex.2.exe

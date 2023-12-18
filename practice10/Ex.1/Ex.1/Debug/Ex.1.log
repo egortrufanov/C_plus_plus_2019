@@ -1,0 +1,5 @@
+  main.cpp
+  student.cpp
+  Создание кода...
+C:\Users\miair\Desktop\итмо\программирование\практика\practice10\Ex.1\Ex.1\main.cpp(32,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Ex.1.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice10\Ex.1\Debug\Ex.1.exe
