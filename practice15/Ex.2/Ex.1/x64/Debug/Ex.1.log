@@ -1,0 +1,7 @@
+  group.cpp
+  idcard.cpp
+  main.cpp
+  student.cpp
+  Создание кода...
+C:\Users\miair\Desktop\итмо\программирование\практика\practice15\Ex.2\Ex.1\group.cpp(28,21): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Ex.1.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice15\Ex.2\x64\Debug\Ex.2.exe

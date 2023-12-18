@@ -1,0 +1,7 @@
+  main.cpp
+C:\Users\miair\Desktop\итмо\программирование\практика\practice14\Ex.3\Ex.3\main.cpp(66,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\miair\Desktop\итмо\программирование\практика\practice14\Ex.3\Ex.3\main.cpp(66,47): warning C4244:         with
+C:\Users\miair\Desktop\итмо\программирование\практика\practice14\Ex.3\Ex.3\main.cpp(66,47): warning C4244:         [
+C:\Users\miair\Desktop\итмо\программирование\практика\practice14\Ex.3\Ex.3\main.cpp(66,47): warning C4244:             T=float
+C:\Users\miair\Desktop\итмо\программирование\практика\practice14\Ex.3\Ex.3\main.cpp(66,47): warning C4244:         ]
+  Ex.3.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice14\Ex.3\Debug\Ex.3.exe
