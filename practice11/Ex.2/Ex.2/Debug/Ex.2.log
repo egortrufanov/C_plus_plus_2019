@@ -1,0 +1,3 @@
+  Distance.cpp
+C:\Users\miair\Desktop\итмо\программирование\практика\practice11\Ex.2\Ex.2\Distance.cpp(23,11): warning C4566: символ, представленный универсальным именем символа "\u0306", невозможно представить в текущей кодовой странице (1251)
+  Ex.2.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice11\Ex.2\Debug\Ex.2.exe
