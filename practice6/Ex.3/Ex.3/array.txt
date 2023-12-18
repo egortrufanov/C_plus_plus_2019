@@ -1,0 +1,2 @@
+Source massive: 2 4 3 
+Sorted massive: 2 3 4 
