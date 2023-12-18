@@ -1,0 +1,4 @@
+  Source.cpp
+C:\Users\miair\Desktop\итмо\программирование\практика\practice2\Ex.4\Ex.4\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\miair\Desktop\итмо\программирование\практика\practice2\Ex.4\Ex.4\Source.cpp(17,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Ex.4.vcxproj -> C:\Users\miair\Desktop\итмо\программирование\практика\practice2\Ex.4\Debug\Ex.4.exe
